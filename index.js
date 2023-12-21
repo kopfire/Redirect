@@ -1,3 +1,3 @@
-if (window.location.href.indexOf('http://niko.github.com') === 0) {
-    window.location.href = 'http://casperjs.org{{ page.url }}';
+if (window.location.href.indexOf('http://kopfire.ru') === 0) {
+    window.location.href = 'https://kopfire.com';
 }
